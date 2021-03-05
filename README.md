@@ -7,7 +7,7 @@ JOGOS MULTIPLAYER
 
 ## Linguagem escolhida para desenvolver os jogos
 
--  **C** — Linguagem estruturada, escolhida para criação dos algoritmos funcionais que funcionarão de forma efetiva.
+-  **C++** — Linguagem estruturada, escolhida para criação dos algoritmos funcionais que funcionarão de forma efetiva.
 
 
 ## Por que criei este repositório ?
